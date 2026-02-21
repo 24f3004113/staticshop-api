@@ -22,13 +22,26 @@
     { "id": "prod-c4cabf09-016", "name": "Elite Item 16", "category": "clothing", "price": 252.36, "stock": 172, "rating": 2.4 }
   ],
   "aggregations": {
-    "books": {
-      "count": 4,
-      "inventoryValue": 106214.38
-    },
-    "electronics": {
-      "count": 2,
-      "inventoryValue": 75521.10
-    }
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 75521.10
+  },
+  "books": {
+    "count": 4,
+    "inventoryValue": 106214.38
+  },
+  "clothing": {
+    "count": 4,
+    "inventoryValue": 149835.39
+  },
+  "sports": {
+    "count": 5,
+    "inventoryValue": 58077.06
+  },
+  "home": {
+    "count": 1,
+    "inventoryValue": 18691.49
   }
 }
+}
+
