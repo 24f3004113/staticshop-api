@@ -25,6 +25,10 @@
     "books": {
       "count": 4,
       "inventoryValue": 106214.38
+    },
+    "electronics": {
+      "count": 2,
+      "inventoryValue": 75521.10
     }
   }
 }
